@@ -1,3 +1,4 @@
+//codestudio
 int findDuplicate(vector<int>&arr)
 {
     int ans = 0;
